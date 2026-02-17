@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Vinyl",
+  "base_artist": "King Gnu",
+  "createdAt": "2026-02-17T06:56:27.275747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "01 - Lord Don't Slow Me Down (12'' Vinyl Promo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_01_-_Lord_Don't_Slow_Me_Down_(12''_Vinyl_Promo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vinyl",
+      "artist": "Angel Haze",
+      "has_synced": true,
+      "path": "select/02_Vinyl_Angel_Haze.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Roads Lead To You (Vinyl Edit)",
+      "artist": "Red Flag",
+      "has_synced": true,
+      "path": "select/03_All_Roads_Lead_To_You_(Vinyl_Edit)_Red_Flag.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Count To Three (Vinyl Edit)",
+      "artist": "Red Flag",
+      "has_synced": true,
+      "path": "select/04_Count_To_Three_(Vinyl_Edit)_Red_Flag.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don't Know Why (Vinyl Edit)",
+      "artist": "Red Flag",
+      "has_synced": true,
+      "path": "select/05_I_Don't_Know_Why_(Vinyl_Edit)_Red_Flag.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Liar (Original 1st Recording Was Released On 7\" Red Vinyl)",
+      "artist": "DEMON",
+      "has_synced": false,
+      "path": "select/06_Liar_(Original_1st_Recording_Was_Released_On_7__Red_Vinyl)_DEMON.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty In Pity (Vinyl Edit)",
+      "artist": "Red Flag",
+      "has_synced": true,
+      "path": "select/07_Pretty_In_Pity_(Vinyl_Edit)_Red_Flag.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rain (Vinyl Edit)",
+      "artist": "Red Flag",
+      "has_synced": false,
+      "path": "select/08_Rain_(Vinyl_Edit)_Red_Flag.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Save Me Tonight (Vinyl Edit)",
+      "artist": "Red Flag",
+      "has_synced": false,
+      "path": "select/09_Save_Me_Tonight_(Vinyl_Edit)_Red_Flag.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vinyl",
+      "artist": "Paul Gilbert",
+      "has_synced": true,
+      "path": "select/10_Vinyl_Paul_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deep Unknown (Mikko Raita vinyl mix)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/11_Deep_Unknown_(Mikko_Raita_vinyl_mix)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Deep Unknown (Mikko Raita Vinyl Mix) (Bonus Track)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/12_Deep_Unknown_(Mikko_Raita_Vinyl_Mix)_(Bonus_Track)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bootylicious Vinyl",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/13_Bootylicious_Vinyl_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dangerous (Waste Of Vinyl 12” Mix)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/14_Dangerous_(Waste_Of_Vinyl_12”_Mix)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dangerous (Waste Of Vinyl 12\"-Mix)",
+      "artist": "Roxette",
+      "has_synced": true,
+      "path": "select/15_Dangerous_(Waste_Of_Vinyl_12_-Mix)_Roxette.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Strawberry Fields Forever (vinyl)",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/16_Strawberry_Fields_Forever_(vinyl)_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "05 Already Gone (Vinyl bonus)",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/17_05_Already_Gone_(Vinyl_bonus)_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cut - Vinyl Remaster",
+      "artist": "Panchiko",
+      "has_synced": true,
+      "path": "select/18_Cut_-_Vinyl_Remaster_Panchiko.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Kicking Cars - Vinyl Remaster",
+      "artist": "Panchiko",
+      "has_synced": true,
+      "path": "select/19_Kicking_Cars_-_Vinyl_Remaster_Panchiko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vinyl",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_Vinyl_King_Gnu.txt"
+    }
+  ]
+}
